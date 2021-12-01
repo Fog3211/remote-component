@@ -1,0 +1,17 @@
+{
+  "name": "remote-component",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "typescript": "^4.5.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.1.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Fog3211/remote-component.git",
+  "author": "Fog3211 <fog3211@163.com>",
+  "license": "MIT"
+}
